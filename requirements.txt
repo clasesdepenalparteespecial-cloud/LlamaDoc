@@ -3,3 +3,4 @@ PyPDF2
 llama-index
 openai
 pypdf
+PyMuPDF
